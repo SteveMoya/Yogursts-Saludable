@@ -1,3 +1,4 @@
+@import url(/css/Normalize.css);
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@400;500;600;700;800&display=swap');
 
 /*
@@ -5,13 +6,6 @@ font-family: 'Bebas Neue', cursive;
 font-family: 'Poppins', sans-serif;
 */
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    text-decoration: none;
-    list-style: none;
-}
 
 body {
     font-family: 'Poppins', sans-serif;
