@@ -1,7 +1,6 @@
-# Yogurt Saludable
+# 🥛🍇🍓 Yogurt Saludable 🥛🍇🍓
 
-![yogursts-saludable-practica vercel app_](https://github.com/SteveMoya/Yogursts-Saludable/assets/114698709/0c1e6ca9-f8f8-44d9-8dc6-3d37e823920a)
-
+![Yogurts](https://github.com/SteveMoya/Yogursts-Saludable/assets/114698709/7ceb8ad1-b552-4d16-81fa-e0b224f313b0)
 
 ## Ejemplo en vivo
 
@@ -9,11 +8,11 @@
 
 ## Descripción 📑
 
-Esto es un proyecto de practica, para aprender a hacer slider con javascript puro.
+Esto es un proyecto de practica, para aprender sobre el uso de muchas imagenes.
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻 
 
-Eh aprendido a realizar slider totalmente responsive, con la utilizacion de los breakpoints.
+En este proyecto aprendi a realizar animaciones en css, posponer la carga de imagenes, y optiminizar las imagenes convirtiendo a Webp y optimizando para que la pagina cargara lo mas rapido posible.
 
 ## Tecnologías 🛠
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
@@ -32,10 +31,9 @@ Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz dob
 Si quieres hechas un vistazo al proyecto.
 <br>
 
-
+![Yogurt](https://github.com/SteveMoya/Yogursts-Saludable/assets/114698709/5907bc5f-a5f5-439a-b191-35835419425d)
 
 <br>
-
 
 ## Steve Moya Cepeda ✒️
 
